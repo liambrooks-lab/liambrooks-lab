@@ -52,11 +52,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 </p>
 
-## 🎥 VoidLAB Demo (Live Experience)
+## 💻 VoidLAB Demo (Live Experience)
 
 **Live Project:** [void-lab-web.vercel.app](https://void-lab-web.vercel.app/)
 
-💻 VoidLAB is a browser-based cloud IDE built for coding, execution, workspace collaboration, GitHub publishing, and guided onboarding inside one modern interface.
+ VoidLAB is a browser-based cloud IDE built for coding, execution, workspace collaboration, GitHub publishing, and guided onboarding inside one modern interface.
 
 <table>
   <tr>
@@ -194,9 +194,9 @@
 </p>
 
 ## 🧠 Current Focus
-- 🤖 Machine Learning & AI Systems
-- ⚡ Building scalable real-world applications
-- 🧩 Strengthening DSA & problem-solving
+- Machine Learning & AI Systems
+- Building scalable real-world applications
+- Strengthening DSA & problem-solving
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
@@ -209,7 +209,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 </p>
 
-<h3 align="center">⚡ "I don't just write code, I build the future." ⚡</h3>
+<h3 align="center">... I don't just write code, I build the future ...</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILT%20FOR-AI%20SYSTEMS-08111f?style=for-the-badge&logo=githubactions&logoColor=7dd3fc" />
