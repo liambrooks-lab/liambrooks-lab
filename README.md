@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Builder%20%7C%20ML%20Engineer%20in%20Progress%20%7C%20System%20Creator&descAlignY=64&descSize=18" />
 </p>
 
-<h3 align="center">AI Builder | Future ML Engineer & Data Scientist | System Creator</h3>
+<h3 align="center">AI/ML Explorer | Biulding Real-World Systems | Learning by Shipping</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80&center=true&width=600&height=45" />
@@ -23,7 +23,7 @@
 - ⚡ Passionate about **AI, ML, and Data Science**
 - ⚡ I do not just code - I **build systems that solve real problems**
 - ⚡ Currently working on **AI tools, automation, and intelligent platforms**
-- ⚡ Goal: Become a **top-tier ML Engineer and Data Scientist**
+- ⚡ Goal: Become a Top-Tier ML Engineer and Data Scientist
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
@@ -43,9 +43,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 </p>
 
-## 🚀 Tech Stack
+## Tech Stack
+ Tech I've worked with 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,tensorflow,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,docker,tensorflow,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -118,7 +119,7 @@
 
 ### 🌐 HorizonSync - Unified Collaboration Workspace
 🔗 <a href="https://github.com/liambrooks-lab/HorizonSync">View Project</a>  
-> Enterprise-grade workspace that combines team communication, publishing, and private execution in one platform  
+> Productivity and synchronization workspace that combines team communication, publishing, and private execution in one platform  
 ⚡ Hubs • Global feed • My Space
 
 <p align="center">
@@ -209,7 +210,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 </p>
 
-<h3 align="center">... I don't just write code, I build the future ...</h3>
+<h3 align="center">... I build projects that solve real problems and improve with every Iteration ...</h3>
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILT%20FOR-AI%20SYSTEMS-08111f?style=for-the-badge&logo=githubactions&logoColor=7dd3fc" />
