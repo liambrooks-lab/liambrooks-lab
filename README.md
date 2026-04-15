@@ -30,18 +30,18 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,tensorflow,git&theme=dark" />
 </p>
 
 ---
 
-## 🎥 VoidLAB Demo (Live Experience)
+## 💻 VoidLAB Demo (Live Experience)
 
 **Live Project:** [void-lab-web.vercel.app](https://void-lab-web.vercel.app/)
 
-💻 VoidLAB is a browser-based cloud IDE built for coding, execution, workspace collaboration, GitHub publishing, and guided onboarding inside one modern interface.
+ VoidLAB is a browser-based cloud IDE built for coding, execution, workspace collaboration, GitHub publishing, and guided onboarding inside one modern interface.
 
 <table>
   <tr>
