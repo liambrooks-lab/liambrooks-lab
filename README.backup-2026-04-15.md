@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Builder%20%7C%20ML%20Engineer%20in%20Progress%20%7C%20System%20Creator&descAlignY=64&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rudranarayan%20Jena&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h3 align="center">AI Builder | Future ML Engineer & Data Scientist | System Creator</h3>
@@ -8,16 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80&center=true&width=600&height=45" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20SYSTEMS-08111f?style=for-the-badge&logo=openai&logoColor=7dd3fc" />
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0b132b?style=for-the-badge&logo=tensorflow&logoColor=ff8a65" />
-  <img src="https://img.shields.io/badge/FULL%20STACK%20PROJECTS-10243f?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/DEVELOPER%20WORKFLOWS-123c69?style=for-the-badge&logo=git&logoColor=f97316" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=6&section=header" width="100%" />
-</p>
+---
 
 ## 🧠 About Me
 - ⚡ Passionate about **AI, ML, and Data Science**
@@ -25,9 +16,7 @@
 - ⚡ Currently working on **AI tools, automation, and intelligent platforms**
 - ⚡ Goal: Become a **top-tier ML Engineer and Data Scientist**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 🎓 Education & Professional Network
 - 🔗 <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">**Connect with me on LinkedIn**</a>
@@ -39,18 +28,14 @@
 
 - 💡 *I am always open to discussing machine learning architecture, full-stack opportunities, and collaborative AI projects.*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,tensorflow,git&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 🎥 VoidLAB Demo (Live Experience)
 
@@ -73,80 +58,77 @@
   </tr>
   <tr>
     <td align="center" width="50%">
+      <img src="./assets/voidlab-demo/voidlab-execution-panel.png" alt="VoidLAB execution output panel" width="100%" />
+      <br />
+      <sub><b>Execution output</b> - inline runtime feedback and structured terminal output panels.</sub>
+    </td>
+    <td align="center" width="50%">
       <img src="./assets/voidlab-demo/voidlab-collaboration-rooms.png" alt="VoidLAB collaboration rooms" width="100%" />
       <br />
       <sub><b>Collaboration rooms</b> - shared rooms, team chat, and synchronized workspace snapshots.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="./assets/voidlab-demo/voidlab-github-publishing.png" alt="VoidLAB GitHub publishing view" width="100%" />
       <br />
       <sub><b>GitHub publishing</b> - connect GitHub, target a repository, and push active work.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="./assets/voidlab-demo/voidlab-ai-guide.png" alt="VoidLAB AI guide" width="70%" />
+    <td align="center" width="50%">
+      <img src="./assets/voidlab-demo/voidlab-ai-guide.png" alt="VoidLAB AI guide" width="100%" />
       <br />
       <sub><b>AI guide</b> - built-in product help for onboarding, debugging direction, and workspace support.</sub>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 💎 Core Projects
+
+### 🧠 Zyron - AI System (forked)
+🔗 <a href="https://github.com/liambrooks-lab/Zyron">View Project</a>  
+> Advanced AI system for human-like intelligent interaction  
+⚡ NLP • Adaptive responses • Real-world usability
+
+---
 
 ### 💻 VoidLAB - Cloud IDE
 🔗 <a href="https://github.com/liambrooks-lab/VoidLAB">View Project</a>  
 > Full-featured browser IDE with multi-language execution  
 ⚡ Tabs • File explorer • Developer-first UX
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ### ⚙️ FluxKernel - AI Operating System Agent
 🔗 <a href="https://github.com/liambrooks-lab/FluxKernel">View Project</a>  
 > OS-level AI agent built for persistent memory, direct filesystem workflows, and premium developer control  
 ⚡ Persona engine • Diff approval • Secure workspace sandbox
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ### 🌐 HorizonSync - Unified Collaboration Workspace
 🔗 <a href="https://github.com/liambrooks-lab/HorizonSync">View Project</a>  
 > Enterprise-grade workspace that combines team communication, publishing, and private execution in one platform  
 ⚡ Hubs • Global feed • My Space
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ### 🔊 LEXIO - TTS Engine
 🔗 <a href="https://github.com/liambrooks-lab/LEXIO">View Project</a>  
 > Real-time text-to-speech with voice customization  
 ⚡ Web Speech API • Document reader
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ### 🎯 SkillNODE - AI Learning Platform
 🔗 <a href="https://github.com/liambrooks-lab/SkillNODE">View Project</a>  
 > AI-powered skill development ecosystem  
 ⚡ Practice • Social • Intelligent learning
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 🧪 Other Projects
-🔹 Zyron (forked)
-- <a href="https://github.com/liambrooks-lab/Zyron">Click to View</a>
-
 🔹 VoidLAB-Beta
 - <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">Click to View</a>
 
@@ -162,9 +144,7 @@
 🔹 4-Stories
 - <a href="https://github.com/liambrooks-lab/4-Stories">Click to View</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 📊 Real-Time GitHub Stats & Activity
 
@@ -189,35 +169,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 🧠 Current Focus
 - 🤖 Machine Learning & AI Systems
 - ⚡ Building scalable real-world applications
 - 🧩 Strengthening DSA & problem-solving
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 ## 🧬 Vision
 > I aim to build intelligent systems that **think, adapt, and evolve** - not just tools, but real AI solutions.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-</p>
+---
 
 <h3 align="center">⚡ "I don't just write code, I build the future." ⚡</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILT%20FOR-AI%20SYSTEMS-08111f?style=for-the-badge&logo=githubactions&logoColor=7dd3fc" />
-  <img src="https://img.shields.io/badge/FOCUS-SCALABLE%20APPLICATIONS-10243f?style=for-the-badge&logo=databricks&logoColor=ffb84d" />
-  <img src="https://img.shields.io/badge/MINDSET-ENGINEERED%20TO%20EVOLVE-123c69?style=for-the-badge&logo=bookstack&logoColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Designing%20Intelligent%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-</p>
-
