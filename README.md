@@ -32,7 +32,7 @@
 ## 🎓 Education & Professional Network
 - 🔗 <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">**Connect with me on LinkedIn**</a>
 - 🔗 <a href="https://www.instagram.com/ai_ds.expert_rudra?igsh=ems3MDZ3Zmo0dDN5">**Connect with me on Instagram**</a>
-- 🔗 **Connect with me on X:** `@LiamBrooks_2006`
+- 🔗 <a href="@LiamBrooks_2006">**Connect with me on X**</a>
 ---------
 - 🔗 <a href="mailto:rudrajena440@gmail.com">**Contact me through Gmail - 1**</a>
 - 🔗 <a href="mailto:liambrooks140@gmail.com">**Contact me through Gmail - 2**</a>
