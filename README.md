@@ -172,9 +172,9 @@
 ---
 
 ## 🧠 Current Focus
-- 🤖 Machine Learning & AI Systems
-- ⚡ Building scalable real-world applications
-- 🧩 Strengthening DSA & problem-solving
+-  Machine Learning & AI Systems
+-  Building scalable real-world applications
+-  Strengthening DSA & problem-solving
 
 ---
 
@@ -183,7 +183,7 @@
 
 ---
 
-<h3 align="center">⚡ "I don't just write code, I build the future." ⚡</h3>
+<h3 align="center">... I don't just write code, I build the future ...</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
