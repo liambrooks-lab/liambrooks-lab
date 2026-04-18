@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Builder%20%7C%20ML%20Engineer%20in%20Progress%20%7C%20System%20Creator&descAlignY=64&descSize=18" />
 </p>
 
-<h3 align="center">AI/ML Explorer | Biulding Real-World Systems | Learning by Shipping</h3>
+<h3 align="center">AI/ML Explorer | Building Real-World Systems | Learning by Shipping</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80&center=true&width=600&height=45" />
@@ -55,7 +55,7 @@
 
 ## 💻 VoidLAB Demo (Live Experience)
 
-**Live Project:** [void-lab-web.vercel.app](https://void-lab-web.vercel.app/)
+**Live Project:** [Click to view VoidLAB Live](https://void-lab-web.vercel.app/)
 
  VoidLAB is a browser-based cloud IDE built for coding, execution, workspace collaboration, GitHub publishing, and guided onboarding inside one modern interface.
 
@@ -146,21 +146,27 @@
 
 ## 🧪 Other Projects
 🔹 Zyron (forked)
+ - An Enterprise graded product by Qwen Agent
 - <a href="https://github.com/liambrooks-lab/Zyron">Click to View</a>
-
+---
 🔹 VoidLAB-Beta
+- The Beta version of VoidLAB editor with lightweight browsing and minimal Features
 - <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">Click to View</a>
-
+---
 🔹 OOPs-Cpp
+- My grind for OOP with C++ 
 - <a href="https://github.com/liambrooks-lab/OOPs-Cpp">Click to View</a>
-
+---
 🔹 Solutions-LeetCode (forked)
+- My grind for Leetcode 75 days challenge
 - <a href="https://github.com/liambrooks-lab/Solutions-LeetCode">Click to View</a>
-
+---
 🔹 OpenAI-Skills (forked)
+- An enterprise grade coding agent by OpenAI 
 - <a href="https://github.com/liambrooks-lab/OpenAI-Skills">Click to View</a>
-
+---
 🔹 4-Stories
+- 4 Stories of different Scenarios, Casually made by me
 - <a href="https://github.com/liambrooks-lab/4-Stories">Click to View</a>
 
 <p align="center">
@@ -211,7 +217,7 @@
 </p>
 
 <h3 align="center">... I build projects that solve real problems and improve with every Iteration ...</h3>
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILT%20FOR-AI%20SYSTEMS-08111f?style=for-the-badge&logo=githubactions&logoColor=7dd3fc" />
