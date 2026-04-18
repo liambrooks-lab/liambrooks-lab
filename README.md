@@ -217,7 +217,8 @@
 </p>
 
 <h3 align="center">... I build projects that solve real problems and improve with every Iteration ...</h3>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILT%20FOR-AI%20SYSTEMS-08111f?style=for-the-badge&logo=githubactions&logoColor=7dd3fc" />
