@@ -216,7 +216,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 </p>
 
-<h3 align="center">... I build projects that solve real problems and improve with every Iteration ...</h3>
+<h3 align="center">--- # I build projects that solve real problems and improve with every Iteration # ---</h3>
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
