@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050816,50:0b132b,100:123c69&amp;height=220&amp;section=header&amp;text=Rudranarayan%20Jena&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer%20%7C%20System%20Builder&amp;descAlignY=64&amp;descSize=18" />
 </p>
 
 <p align="center">
@@ -108,5 +108,5 @@ Tech I've worked with
 > Built under **Voxion Labs** ⚙️
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Designing%20Intelligent%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:123c69,50:0b132b,100:050816&amp;height=150&amp;section=footer&amp;text=Designing%20Intelligent%20Systems&amp;fontSize=28&amp;fontColor=ffffff&amp;animation=fadeIn" />
 </p>
