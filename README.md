@@ -1,100 +1,134 @@
 <p align="center">
-  <img src="assets/header_banner.png" alt="Voxion Labs Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050816,50:0b132b,100:123c69&amp;height=220&amp;section=header&amp;text=Rudranarayan%20Jena&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer%20%7C%20System%20Builder&amp;descAlignY=64&amp;descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=600&height=40&lines=Founder+%26+Systems+Researcher+%40+Voxion+Labs;Building+Memory-Driven+AI+Kernels;Designing+Isolated+Developer+Workspaces;Engineering+Scalable+Data-Science+Systems" alt="Rudranarayan Jena Profile Specialties" />
+Founder @ <b>Voxion Labs</b> ⚙️ <br>
+Building intelligent systems, backend architectures & experimental AI
+</p>
+
+<h3 align="center">AI/ML Explorer | Building Real-World Systems | Learning by Shipping</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80&center=true&width=600&height=45" />
 </p>
 
 <p align="center">
-  <a href="#-voxion-labs"><img src="https://img.shields.io/badge/Systems_Lab-Voxion_Labs-E11D48?style=flat-square&logo=cpu&logoColor=white" alt="Systems Lab: Voxion Labs" /></a>
-  <a href="#-active-research"><img src="https://img.shields.io/badge/Research-Cognitive_Agents-0F172A?style=flat-square&logo=book&logoColor=94A3B8" alt="Research: Cognitive Agents" /></a>
-  <a href="#-active-research"><img src="https://img.shields.io/badge/Focus-Low_Level_Systems-0F172A?style=flat-square&logo=rust&logoColor=F97316" alt="Focus: Low Level Systems" /></a>
-  <a href="mailto:rudrajena440@gmail.com"><img src="https://img.shields.io/badge/Contact-Get_In_Touch-0F172A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Contact: Gmail" /></a>
+  <img src="https://img.shields.io/badge/AI%20SYSTEMS-08111f?style=for-the-badge&logo=openai&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0b132b?style=for-the-badge&logo=tensorflow&logoColor=ff8a65" />
+  <img src="https://img.shields.io/badge/FULL%20STACK%20PROJECTS-10243f?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/DEVELOPER%20WORKFLOWS-123c69?style=for-the-badge&logo=git&logoColor=f97316" />
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(225, 29, 72, 0), rgba(225, 29, 72, 0.75), rgba(225, 29, 72, 0)); margin: 20px 0;">
-
-# ⚙️ Rudranarayan Jena
-> **Founder & Lead Researcher @ Voxion Labs**  
-> *Aspiring Data Scientist, ML Engineer, and Systems Builder obsessed with building stateful artificial intelligence, compiled sandbox environments, and persistent human-agent workspaces.*
-
----
-
-## 🏢 Voxion Labs: Systems Research & Foundational Vision
-
-**Voxion Labs** is an independent systems and artificial intelligence laboratory dedicated to research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. Our core operating thesis is that future computing interfaces will not just run applications—they will co-evolve with the developers operating them.
-
-### 🔬 Core Research Pillars
-
-*   **Cognitive Agent Architectures:** Researching agent persistence, routing, and auto-corrective diff engines (e.g., *FluxKernel*).
-*   **Isolated Web Runtimes:** Designing zero-latency cloud terminal compiler frameworks and virtual filesystems operating within browser sandboxes (e.g., *VoidLAB*).
-*   **Collaborative Systems:** Engineering unified collaborative environments with real-time state synchronization for developer workspaces (e.g., *SkillNODE*, *HorizonSync*).
-
----
-
-## 🧪 Engineering & Research Ecosystem
-
-Here is a technical overview of the primary systems currently active or in experimental stages within the lab:
-
-### 1. [FluxKernel](https://github.com/liambrooks-lab/FluxKernel) ⚙️ — Experimental AI OS Agent
-A persistent, memory-driven kernel that operates directly on local filesystems. Facilitates task routing between local and cloud-based LLMs based on active agent profiles.
-*   **Key Innovations:** Real-time terminal execution loop, self-correcting git-diff patching pipeline, and vector-based semantic memory persistent across system sessions.
-*   **Stack:** Python • LangChain • Vector Databases • CLI Integrations.
-
-### 2. [VoidLAB](https://github.com/liambrooks-lab/VoidLAB) 💻 — Minimalist Cloud IDE
-A zero-latency, sandbox-isolated browser IDE designed for seamless cross-platform developer workflows.
-*   **Key Innovations:** Dynamic multi-tab workspace, low-latency execution loop, web workers for background compile threads, and multi-language compiler integration.
-*   **Stack:** React • Next.js • TailwindCSS • Isolated Web Runtimes • Execution APIs.
-
-### 3. [SkillNODE](https://github.com/liambrooks-lab/SkillNODE) 🌐 — Social Skill-Building Network
-An end-to-end skill acquisition and practice platform combining multi-category programming exercises, competitive rooms, and live community interaction.
-*   **Key Innovations:** Live state synchronization, multi-user coding spaces utilizing Socket.io, and algorithmic skill analytics.
-*   **Stack:** Node.js • Express • Socket.io • React • MongoDB.
-
-### 4. [HorizonSync](https://github.com/liambrooks-lab/HorizonSync) & [Empty_Pointer](https://github.com/Voxion-Labs/Empty_Pointer) 🎮 — Productivity Sync & WebAssembly Engine
-*   **HorizonSync:** A modern workspace orchestrator bringing multi-user real-time state streaming and unified terminal feeds into a single collaborative interface.
-*   **Empty_Pointer:** A high-performance, grid-based survival game developed in C++ and compiled directly to WebAssembly to target native browser graphics execution speeds.
-
----
-
-## 🛠️ Scientific & Systems Tech Stack
-
-```
-================================================================================
-  LANGUAGES & SYSTEMS      :: Python | C++ | TypeScript | JavaScript | HTML5 | CSS3
-  INFRASTRUCTURE & ENGINE  :: Docker | Node.js | Express.js | Linux | Socket.io
-  AI & DATA SCIENCE        :: TensorFlow | Scikit-Learn | Pandas | NumPy | Git
-================================================================================
-```
-
----
-
-## 📊 GitHub Systems Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&bg_color=050816&title_color=e11d48&text_color=94a3b8&icon_color=e11d48&border_color=1e293b&count_private=true" alt="Rudranarayan Jena's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&bg_color=050816&title_color=e11d48&text_color=94a3b8&icon_color=e11d48&border_color=1e293b&langs_count=6" alt="Rudranarayan Jena's Top Languages" height="195" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=6&section=header" width="100%" />
 </p>
 
----
+## 🧠 About Me
+- 🏢 Founder of **Voxion Labs** — an independent AI & systems lab  
+- ⚡ Passionate about **AI, ML, and Data Science**  
+- ⚡ I do not just code — I **build systems that solve real problems**  
+- ⚡ Currently working on **AI tools, automation, and intelligent platforms**  
+- ⚡ Goal: Become a Top-Tier ML Engineer and Data Scientist  
 
-## 📫 Terminal Directory & Networking
+## 🏢 Voxion Labs
+<p align="center">
+  <img src="assets/voxion_labs_logo.jpg" alt="Voxion Labs Logo" width="180" style="border-radius: 12px; border: 2px solid #123c69; margin: 15px;" />
+</p>
 
-```bash
-$ finger rudranarayan-jena
+An independent AI & systems lab focused on building intelligent applications, developer tools, and scalable backend systems.
 
-# CONTACT & NETWORK DIRECTORY:
-- Primary Email  :: rudrajena440@gmail.com
-- Alt Email      :: liambrooks140@gmail.com
-- LinkedIn       :: linkedin.com/in/mr-rudranarayan-jena-88845b2a9
-- Twitter / X    :: x.com/LiamBrooks_2006
-- Instagram      :: instagram.com/rudra_.ai_researcher
-- Lab Portals    :: github.com/Voxion-Labs | github.com/liambrooks-lab
-```
+🔗 **Explore our organizations:**
+- ⚙️ [Voxion Labs Organization](https://github.com/Voxion-Labs)
+- 🔬 [Liam Brooks Lab](https://github.com/liambrooks-lab)
 
----
+### 🔬 Active Research Repositories
+- **[Aegis-IR](https://github.com/Voxion-Labs/Aegis-IR) 🛡️** — An advanced intermediate representation compiler engine designed to inject security layers, enforce sandboxed operations, and perform static security telemetry on LLM-generated code.
+- **[VXR-Sandbox](https://github.com/Voxion-Labs/VXR-Sandbox) 📦** — A robust, isolated runtime execution sandbox built to evaluate untrusted AI agent actions and execute code dynamic testing within deterministic bounds.
+- **[VXR-Continuum](https://github.com/Voxion-Labs/VXR-Continuum) 🌐** — A continuous state-persistence and memory-routing backplane that facilitates seamless task state continuity across distributed multi-agent operations.
 
 <p align="center">
-  <img src="assets/footer_banner.png" alt="Voxion Labs Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+</p>
+
+## 🎓 Education & Professional Network
+- 🔗 <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">**Connect with me on LinkedIn**</a>
+- 🔗 <a href="https://www.instagram.com/rudra_.ai_researcher?igsh=ems3MDZ3Zmo0dDN5">**Connect with me on Instagram**</a>
+- 🔗 <a href="https://x.com/LiamBrooks_2006">**Connect with me on X**</a>
+---------
+- 🔗 <a href="mailto:rudrajena440@gmail.com">**Contact me through Gmail - 1**</a>
+- 🔗 <a href="mailto:liambrooks140@gmail.com">**Contact me through Gmail - 2**</a>
+
+- 💡 *I am always open to discussing machine learning architecture, full-stack opportunities, and collaborative AI projects.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+</p>
+
+## Tech Stack
+Tech I've worked with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,docker,tensorflow,git&theme=dark" alt="Rudranarayan Jena Tech Stack Icons" />
+</p>
+
+### ⚙️ Core Competencies:
+*   **Languages:** Python (`py`), C++ (`cpp`), JavaScript (`js`), TypeScript (`ts`)
+*   **Frontend & Fullstack:** React, Next.js
+*   **Backend & Systems:** Node.js, Docker, Git
+*   **AI & Machine Learning:** TensorFlow
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+</p>
+
+## 💎 Core Projects
+
+### 💻 [VoidLAB](https://github.com/liambrooks-lab/VoidLAB) - Cloud IDE
+A minimalist, browser-based cloud code editor and compiler featuring a modern workspace and multi-language execution support.
+
+### ⚙️ [FluxKernel](https://github.com/liambrooks-lab/FluxKernel) - AI Operating System Agent
+An experimental AI operating system agent working as a persistent, memory-driven kernel directly on filesystems.
+
+### 🌐 [HorizonSync](https://github.com/liambrooks-lab/HorizonSync) - Unified Collaboration Workspace
+A unified workspace for real-time communication, productivity, and document synchronization.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+</p>
+
+## 🧪 Other Projects
+
+🔹 [VoidLAB-Beta](https://github.com/liambrooks-lab/VoidLAB-Beta)  
+🔹 [OOPs-Cpp](https://github.com/liambrooks-lab/OOPs-Cpp)  
+🔹 [4-Stories](https://github.com/liambrooks-lab/4-Stories)  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+</p>
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+</p>
+
+## 🧠 Current Focus
+- Machine Learning & AI Systems  
+- Building scalable real-world applications  
+- Strengthening DSA & problem-solving  
+
+## 🧬 Vision
+> I aim to build intelligent systems that **think, adapt, and evolve**  
+
+> Built under **Voxion Labs** ⚙️
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:123c69,50:0b132b,100:050816&amp;height=150&amp;section=footer&amp;text=Designing%20Intelligent%20Systems&amp;fontSize=28&amp;fontColor=ffffff&amp;animation=fadeIn" />
 </p>
