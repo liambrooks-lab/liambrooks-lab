@@ -42,10 +42,10 @@ Rather than simply building isolated applications, I design stateful architectur
 
 🔗 **Explore our organizations:**
 
-| Profile | Link |
-| :--- | :--- |
-| ⚙️ Voxion Labs Organization | [github.com/Voxion-Labs](https://github.com/Voxion-Labs) |
-| 🔬 Liam Brooks Lab | [github.com/liambrooks-lab](https://github.com/liambrooks-lab) |
+<p>
+  ⚙️ <a href="https://github.com/Voxion-Labs"><b>Voxion Labs Organization</b></a> &nbsp;|&nbsp;
+  🔬 <a href="https://github.com/liambrooks-lab"><b>Liam Brooks Lab</b></a>
+</p>
 
 ---
 
@@ -101,13 +101,14 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ## 🎓 Professional Network & Contact
 
-| Platform | Link |
-| :--- | :--- |
-| 💼 LinkedIn | [mr-rudranarayan-jena](https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9) |
-| 📸 Instagram | [@rudra\_.ai\_researcher](https://www.instagram.com/rudra_.ai_researcher?igsh=ems3MDZ3Zmo0dDN5) |
-| 🐦 X / Twitter | [@LiamBrooks\_2006](https://x.com/LiamBrooks_2006) |
-| 📧 Gmail (Primary) | [rudrajena440@gmail.com](mailto:rudrajena440@gmail.com) |
-| 📧 Gmail (Alt) | [liambrooks140@gmail.com](mailto:liambrooks140@gmail.com) |
+- 💼 <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Connect with me on LinkedIn</b></a>
+- 📸 <a href="https://www.instagram.com/rudra_.ai_researcher?igsh=ems3MDZ3Zmo0dDN5"><b>Connect with me on Instagram</b></a>
+- 🐦 <a href="https://x.com/LiamBrooks_2006"><b>Connect with me on X</b></a>
+
+---
+
+- 📧 <a href="mailto:rudrajena440@gmail.com"><b>Contact me through Gmail - 1</b></a>
+- 📧 <a href="mailto:liambrooks140@gmail.com"><b>Contact me through Gmail - 2</b></a>
 
 > 💡 *Always open to discussing ML architecture, full-stack opportunities, and collaborative AI projects.*
 
@@ -115,32 +116,15 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><sub><b>Next.js</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="48" /><br/><sub><b>Redis</b></sub></td>
-  </tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
 ---
 
 ## 💎 Core Engineering Projects
+
+> These are the foundational products designed, built, and shipped under the **Voxion Labs** umbrella.
 
 ### 💻 [VoidLAB](https://github.com/liambrooks-lab/VoidLAB) — Minimalist Browser Cloud IDE
 
@@ -277,13 +261,57 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
+### 🚀 [ApexProtocol](https://github.com/liambrooks-lab/ApexProtocol) — Sci-Fi Survival Horror Game *(Upcoming)*
+
+<table>
+  <tr>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | Sci-Fi Survival Horror Game |
+| **Status** | 🔧 In Development |
+| **Stack** | C#, C++ |
+| **Org** | liambrooks-lab |
+
+  </td>
+  <td valign="top" width="62%">
+  An upcoming, large-scale sci-fi survival horror experience built with C# and C++. ApexProtocol is among the most ambitious titles in the lab's game division — currently in active development with a focus on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines.
+  </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><sub><b>Next.js</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="48" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
+
+---
+
 ## 🧪 Other Engineering Implementations
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| 🔹 [VoidLAB-Beta](https://github.com/liambrooks-lab/VoidLAB-Beta) | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
-| 🔹 [OOPs-Cpp](https://github.com/liambrooks-lab/OOPs-Cpp) | C++, Makefile, GCC | Academic repo with clean, self-documented OOP implementations in modern C++. Deep-dives into polymorphism, memory management, and clean-code principles. |
-| 🔹 [4-Stories](https://github.com/liambrooks-lab/4-Stories) | React, Next.js, Node.js | Experimental interactive storytelling platform where collaborative writers branch narratives dynamically via community vote parameters and real-time inputs. |
+| 🔹 <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">VoidLAB-Beta</a> | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
+| 🎮 <a href="https://github.com/liambrooks-lab/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
+| 🎮 <a href="https://github.com/Voxion-Labs/Empty_Pointer">Empty_Pointer</a> | C++, Raylib, WebAssembly | A grid-based action-survival game built natively in C++ with the Raylib framework. Navigate the system, merge bit values, and evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install browser play. |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
