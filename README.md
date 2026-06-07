@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18" alt="Rudranarayan Jena" width="100%" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
 
 <p align="center">
   Founder &amp; Lead Systems Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
@@ -101,16 +99,15 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ## 🎓 Professional Network & Contact
 
-- 💼 <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Connect with me on LinkedIn</b></a>
-- 📸 <a href="https://www.instagram.com/rudra_.ai_researcher?igsh=ems3MDZ3Zmo0dDN5"><b>Connect with me on Instagram</b></a>
-- 🐦 <a href="https://x.com/LiamBrooks_2006"><b>Connect with me on X</b></a>
+| Platform | Handle | Description |
+| :--- | :--- | :--- |
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9"><b>mr-rudranarayan-jena</b></a> | Professional network, career updates |
+| 📸 Instagram | <a href="https://www.instagram.com/rudra_.ai_researcher"><b>@rudra_.ai_researcher</b></a> | AI research updates & behind-the-scenes |
+| 🐦 X / Twitter | <a href="https://x.com/LiamBrooks_2006"><b>@LiamBrooks_2006</b></a> | Tech thoughts & quick updates |
+| 📧 Gmail (Primary) | <a href="mailto:rudrajena440@gmail.com"><b>rudrajena440@gmail.com</b></a> | General inquiries & collaborations |
+| 📧 Gmail (Alt) | <a href="mailto:liambrooks140@gmail.com"><b>liambrooks140@gmail.com</b></a> | Lab & project communications |
 
----
-
-- 📧 <a href="mailto:rudrajena440@gmail.com"><b>Contact me through Gmail - 1</b></a>
-- 📧 <a href="mailto:liambrooks140@gmail.com"><b>Contact me through Gmail - 2</b></a>
-
-> 💡 *Always open to discussing ML architecture, full-stack opportunities, and collaborative AI projects.*
+> 💡 *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
@@ -320,31 +317,32 @@ Rather than simply building isolated applications, I design stateful architectur
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liambrooks-lab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Commit Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liambrooks-lab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Focus
 
-- Machine Learning & AI Systems  
-- Building scalable real-world applications  
-- Strengthening DSA & problem-solving  
+| Area | What I'm Working On |
+| :--- | :--- |
+| 🤖 AI & Machine Learning | Building production-grade ML pipelines and intelligent agent systems |
+| 🏗️ Systems Engineering | Designing low-latency sandboxes and memory-persistent multi-agent architectures |
+| 🎮 Game Development | Advancing **ApexProtocol** — a large-scale sci-fi survival horror experience |
+| 📐 DSA & Foundations | Sharpening algorithmic problem-solving for complex system design |
 
 ## 🧬 Vision
 
-> I aim to build intelligent systems that **think, adapt, and evolve**
+> *The future of computing is not about applications that run —*  
+> *it is about systems that **think**, **adapt**, and **co-evolve** with their operators.*
+>
+> Every line of code at **Voxion Labs** is a step toward that future.
 
-> Built under **Voxion Labs** ⚙️
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Designing%20Intelligent%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Designing%20Intelligent%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn)
