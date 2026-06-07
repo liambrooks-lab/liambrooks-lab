@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Run every 12 hours
+    - cron: "0 0 * * *" # Run daily
   workflow_dispatch:
   push:
     branches:
@@ -15,20 +15,34 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: GitHub Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_theme: tokyonight
+          repositories_affiliations: owner, collaborator, organization_member
 
-      - name: Fetch Stats
-        run: |
-          mkdir -p assets
-          curl -fS -o assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" || echo "Failed to fetch stats"
-          curl -fS -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" || echo "Failed to fetch langs"
-          curl -fS -o assets/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=liambrooks-lab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" || echo "Failed to fetch activity graph"
+      - name: Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_theme: tokyonight
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          repositories_affiliations: owner, collaborator, organization_member
 
-      - name: Commit changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add assets/github-stats.svg assets/top-langs.svg assets/activity-graph.svg
-          git commit -m "chore: update github stats [skip ci]" || exit 0
-          git push
+      - name: Activity Graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/activity-graph.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_theme: tokyonight
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
