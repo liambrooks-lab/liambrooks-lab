@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
+![Rudranarayan Jena](assets/header_banner.png)
 
 <p align="center">
   Founder &amp; Lead Systems Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
   Building intelligent systems, backend architectures &amp; experimental AI
 </p>
 
-<h3 align="center">AI/ML Explorer &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Learning by Shipping</h3>
+<h3 align="center">AI/ML Explorer &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Aspiring Data Scientist &amp; AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
@@ -30,13 +30,15 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-## 🏢 Voxion Labs
+## 🏢 My Organization
+
+### ⚙️ Voxion Labs
 
 <p align="center">
   <img src="assets/voxion_labs_logo.jpg" alt="Voxion Labs Logo" width="170" />
 </p>
 
-**Voxion Labs** is an independent systems and artificial intelligence laboratory dedicated to research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. Our core operating thesis is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
+**Voxion Labs** is an independent systems and artificial intelligence laboratory that I founded to pursue research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. As its **Founder and Lead Researcher**, I drive the vision, architecture decisions, and all active research initiatives. Our core thesis is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
 
 🔗 **Explore our organizations:**
 
