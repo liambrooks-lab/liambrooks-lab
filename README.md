@@ -109,14 +109,6 @@ Rather than simply building isolated applications, I design stateful architectur
 
 > 💡 *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-
----
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-
 ---
 
 ## 💎 Core Engineering Projects
@@ -278,6 +270,9 @@ Rather than simply building isolated applications, I design stateful architectur
   </tr>
 </table>
 
+---
+
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
