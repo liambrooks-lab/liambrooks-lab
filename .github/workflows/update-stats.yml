@@ -21,9 +21,9 @@ jobs:
       - name: Fetch Stats
         run: |
           mkdir -p assets
-          curl -o assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-          curl -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-          curl -o assets/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=liambrooks-lab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
+          curl -fS -o assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" || echo "Failed to fetch stats"
+          curl -fS -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" || echo "Failed to fetch langs"
+          curl -fS -o assets/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=liambrooks-lab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" || echo "Failed to fetch activity graph"
 
       - name: Commit changes
         run: |
