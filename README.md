@@ -1,4 +1,4 @@
-![Rudranarayan Jena](assets/header_banner.png)
+<img src="assets/header_banner.svg" width="100%" alt="Rudranarayan Jena" />
 
 <p align="center">
   Founder &amp; Lead Systems Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
@@ -314,12 +314,12 @@ Rather than simply building isolated applications, I design stateful architectur
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liambrooks-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrooks-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liambrooks-lab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
+  <img src="assets/activity-graph.svg" alt="Commit Activity Graph" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
