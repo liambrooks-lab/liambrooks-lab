@@ -104,10 +104,10 @@ Rather than simply building isolated applications, I design stateful architectur
 | Platform | Handle | Description |
 | :--- | :--- | :--- |
 | 💼 LinkedIn | <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9"><b>mr-rudranarayan-jena</b></a> | Professional network, career updates |
-| 📸 Instagram | <a href="https://www.instagram.com/rudra_.ai_researcher"><b>@rudra_.ai_researcher</b></a> | AI research updates & behind-the-scenes |
-| 🐦 X / Twitter | <a href="https://x.com/LiamBrooks_2006"><b>@LiamBrooks_2006</b></a> | Tech thoughts & quick updates |
+| 📸 Instagram | <a href="https://www.instagram.com/rudrajena.global"><b>@rudra_.ai_researcher</b></a> | AI research updates & behind-the-scenes |
+| 🐦 X / Twitter | <a href="https://x.com/rudrajena_X"><b>@LiamBrooks_2006</b></a> | Tech thoughts & quick updates |
 | 📧 Gmail (Primary) | <a href="mailto:rudrajena440@gmail.com"><b>rudrajena440@gmail.com</b></a> | General inquiries & collaborations |
-| 📧 Gmail (Alt) | <a href="mailto:liambrooks140@gmail.com"><b>liambrooks140@gmail.com</b></a> | Lab & project communications |
+| 📧 Gmail (Alt) | <a href="mailto:rudranarayanjena.business@outlook.com"><b>rudranarayanjena.business@outlook.com</b></a> | Lab & project communications |
 
 > 💡 *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
