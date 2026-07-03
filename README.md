@@ -32,19 +32,18 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ## 🏢 My Organization
 
-### ⚙️ Voxion Labs
-
 <p align="center">
-  <img src="assets/voxion_labs_logo.jpg" alt="Voxion Labs Logo" width="170" />
+  <img src="assets/voxion_labs_logo.jpg" alt="Voxion Labs Logo" width="170" /><br>
+  <a href="https://github.com/Voxion-Labs"><b>Voxion Labs</b></a>
 </p>
 
-**Voxion Labs** is an independent systems and artificial intelligence laboratory that I founded to pursue research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. As its **Founder and Lead Researcher**, I drive the vision, architecture decisions, and all active research initiatives. Our core thesis is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
+**Voxion Labs** is an independent systems and artificial intelligence laboratory that I founded to pursue applied research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. As its **Founder and a Researcher**, I drive the vision, architecture decisions, and all active research initiatives. The core thesis of Voxion Labs is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
 
-🔗 **Explore our organizations:**
+🔗 **Explore my organization:**
 
 <p>
-  ⚙️ <a href="https://github.com/Voxion-Labs"><b>Voxion Labs Organization</b></a> &nbsp;|&nbsp;
-  🔬 <a href="https://github.com/liambrooks-lab"><b>Liam Brooks Lab</b></a>
+   <a href="https://github.com/Voxion-Labs"><b>Voxion Labs Organization</b></a> &nbsp;|&nbsp;
+   <a href="https://github.com/liambrooks-lab"><b>My Github Profile</b></a>
 </p>
 
 ---
@@ -103,11 +102,11 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Platform | Handle | Description |
 | :--- | :--- | :--- |
-| 💼 LinkedIn | <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9"><b>mr-rudranarayan-jena</b></a> | Professional network, career updates |
-| 📸 Instagram | <a href="https://www.instagram.com/rudrajena.global"><b>@rudra_.ai_researcher</b></a> | AI research updates & behind-the-scenes |
-| 🐦 X / Twitter | <a href="https://x.com/rudrajena_X"><b>@LiamBrooks_2006</b></a> | Tech thoughts & quick updates |
-| 📧 Gmail (Primary) | <a href="mailto:rudrajena440@gmail.com"><b>rudrajena440@gmail.com</b></a> | General inquiries & collaborations |
-| 📧 Gmail (Alt) | <a href="mailto:rudranarayanjena.business@outlook.com"><b>rudranarayanjena.business@outlook.com</b></a> | Lab & project communications |
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
+| 📸 Instagram | <a href="https://www.instagram.com/rudrajena.global"><b>@rudrajena.global</b></a> | AI research updates & behind-the-scenes |
+| 🐦 X / Twitter | <a href="https://x.com/rudrajena_X"><b>@rudrajena_X</b></a> | Tech thoughts & quick updates |
+| 📧 Gmail (Primary) | <a href="mailto:rudrajena440@gmail.com"><b>rudrajena440@gmail.com</b></a> |  Lab & project communications |
+| 📧 Gmail (Alt) | <a href="mailto:rudranarayanjena.business@outlook.com"><b>rudranarayanjena.business@outlook.com</b></a> | General inquiries & collaborations |
 
 > 💡 *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
@@ -333,7 +332,7 @@ Rather than simply building isolated applications, I design stateful architectur
 | 🤖 AI & Machine Learning | Building production-grade ML pipelines and intelligent agent systems |
 | 🏗️ Systems Engineering | Designing low-latency sandboxes and memory-persistent multi-agent architectures |
 | 🎮 Game Development | Advancing **ApexProtocol** — a large-scale sci-fi survival horror experience |
-| 📐 DSA & Foundations | Sharpening algorithmic problem-solving for complex system design |
+| 📐 DSA & Foundations | Sharpening algorithmic problem-solving and atatistics for complex system design |
 
 ## 🧬 Vision
 
