@@ -102,7 +102,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Platform | Handle | Description |
 | :--- | :--- | :--- |
-| 💼 LinkedIn | <a href="https://www.linkedin.com/in/mr-rudranarayan-jena-88845b2a9"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
 | 📸 Instagram | <a href="https://www.instagram.com/rudrajena.global"><b>@rudrajena.global</b></a> | AI research updates & behind-the-scenes |
 | 🐦 X / Twitter | <a href="https://x.com/rudrajena_X"><b>@rudrajena_X</b></a> | Tech thoughts & quick updates |
 | 📧 Gmail (Primary) | <a href="mailto:rudrajena440@gmail.com"><b>rudrajena440@gmail.com</b></a> |  Lab & project communications |
