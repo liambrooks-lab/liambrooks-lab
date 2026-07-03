@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
 
 <p align="center">
-  Founder &amp; Lead Systems Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
+  Founder &amp; Systems Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
   Building intelligent systems, backend architectures &amp; experimental AI
 </p>
 
-<h3 align="center">AI/ML Explorer &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Aspiring Data Scientist &amp; AI Engineer</h3>
+<h3 align="center">AI/ML Explorer &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Aspiring Data Scientist &amp; ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 ## 🧠 Professional Profile & Philosophy
 
-I am **Rudranarayan Jena**, the **Founder and Lead Systems Researcher** at **Voxion Labs**. As a dedicated systems architect, aspiring data scientist, and AI engineer, my professional mission lies at the convergence of high-performance backend infrastructures, continuous learning models, and sandboxed developer operating environments.
+I am **Rudranarayan Jena**, the **Founder and Lead Systems Researcher** at **Voxion Labs**. As a dedicated systems architect, aspiring data scientist, and ML engineer, my professional mission lies at the convergence of high-performance backend infrastructures, continuous learning models, and sandboxed developer operating environments.
 
 Rather than simply building isolated applications, I design stateful architectures where software and machine intelligence co-evolve. My focus is on making high-performance sandboxes, multi-agent systems, and neural network pipelines more accessible and reliable for creators and developers worldwide. Through my dual role as **Founder and Researcher**, I actively transition raw theoretical computer science research into production-grade systems — learning by building, shipping, and optimizing.
 
