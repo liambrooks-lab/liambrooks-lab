@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
 
 <p align="center">
-  Founder &amp; Systems Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
+  Founder &amp; Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
   Building intelligent systems, backend architectures &amp; experimental AI
 </p>
 
@@ -102,11 +102,11 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Platform | Handle | Description |
 | :--- | :--- | :--- |
-| 💼 LinkedIn | <a href="https://www.linkedin.com/in/rudranarayan-jena-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%89%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9A-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
 | 📸 Instagram | <a href="https://www.instagram.com/rjena_?igsh=ems3MDZ3Zmo0dDN5"><b>@rjena_</b></a> | AI research updates & behind-the-scenes |
 |  X | <a href="https://x.com/RJena_"><b>@RJena_</b></a> | Tech thoughts & quick updates |
 | 📧 Gmail (Primary) | <a href="mailto:rudrajena.ventures@outlook.com"><b>rudrajena.ventures@outlook.com</b></a> |  Lab & project communications |
-| 📧 Gmail (Alt) | <a href="mailto:rudrajena440@gmail.com"><b>rudrajena440@gmail.com</b></a> | General inquiries & collaborations |
+| 📧 Gmail (Alt) | <a href="mailto:rjena.x@proton.me"><b>rjena.x@proton.me</b></a> | General inquiries & collaborations |
 
 > 💡 *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
