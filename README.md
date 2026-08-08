@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
 
 <p align="center">
-  Founder &amp; Researcher @ <b>Voxion Labs</b> ⚙️ <br/>
+  Founder @ <b>Voxion Labs</b> ⚙️ <br/>
   Building intelligent systems, backend architectures &amp; experimental AI
 </p>
 
@@ -24,9 +24,9 @@
 
 ## 🧠 Professional Profile & Philosophy
 
-I am **Rudranarayan Jena**, the **Founder and Lead Systems Researcher** at **Voxion Labs**. As a dedicated systems architect, aspiring data scientist, and ML engineer, my professional mission lies at the convergence of high-performance backend infrastructures, continuous learning models, and sandboxed developer operating environments.
+I am **Rudranarayan Jena**, the **Founder** at **Voxion Labs**. As a dedicated systems architect, aspiring data scientist, and ML engineer, my professional mission lies at the convergence of high-performance backend infrastructures, continuous learning models, and sandboxed developer operating environments.
 
-Rather than simply building isolated applications, I design stateful architectures where software and machine intelligence co-evolve. My focus is on making high-performance sandboxes, multi-agent systems, and neural network pipelines more accessible and reliable for creators and developers worldwide. Through my dual role as **Founder and Researcher**, I actively transition raw theoretical computer science research into production-grade systems — learning by building, shipping, and optimizing.
+Rather than simply building isolated applications, I design stateful architectures where software and machine intelligence co-evolve. My focus is on making high-performance sandboxes, multi-agent systems, and neural network pipelines more accessible and reliable for creators and developers worldwide. Through my dual role as **Founder and solo Researcher**, I actively transition raw theoretical computer science research into production-grade systems — learning by building, shipping, and optimizing.
 
 ---
 
@@ -37,7 +37,7 @@ Rather than simply building isolated applications, I design stateful architectur
   <a href="https://github.com/Voxion-Labs"><b>Voxion Labs</b></a>
 </p>
 
-**Voxion Labs** is an independent systems and artificial intelligence laboratory that I founded to pursue applied research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. As its **Founder and a Researcher**, I drive the vision, architecture decisions, and all active research initiatives. The core thesis of Voxion Labs is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
+**Voxion Labs** is an independent systems and artificial intelligence laboratory that I founded to pursue applied research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. As its **Founder**, I drive the vision, architecture decisions, and all active research initiatives. The core thesis of Voxion Labs is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
 
 🔗 **Explore my organization:**
 
@@ -251,7 +251,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### 🚀 [ApexProtocol](https://github.com/liambrooks-lab/ApexProtocol) — Sci-Fi Survival Horror Game *(Upcoming)*
+### 🚀 [LeetCode-Stack](https://github.com/liambrooks-lab/LeetCode-Stack) — DSA & Core Algorithm Vault *(Active)*
 
 <table>
   <tr>
@@ -259,14 +259,14 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Field | Details |
 | :--- | :--- |
-| **Type** | Sci-Fi Survival Horror Game |
-| **Status** | 🔧 In Development |
-| **Stack** | C#, C++ |
+| **Type** | DSA & Core Algorithm Vault |
+| **Status** | ⚡ Active Execution |
+| **Stack** | C++, Python |
 | **Org** | liambrooks-lab |
 
   </td>
   <td valign="top" width="62%">
-  An upcoming, large-scale sci-fi survival horror experience built with C# and C++. ApexProtocol is among the most ambitious titles in the lab's game division — currently in active development with a focus on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines.
+  A structured repository of algorithmic solutions and data structures implemented in C++ and Python. It serves as an active log of LeetCode problem-solving, focusing on time and space complexity optimization.
   </td>
   </tr>
 </table>
@@ -302,6 +302,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| 🎮 <a href="https://github.com/liambrooks-lab/ApexProtocol">ApexProtocol</a> | C#, C++ | An upcoming, large-scale sci-fi survival horror experience currently in active development. Focuses on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines. |
 | 🔹 <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">VoidLAB-Beta</a> | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
 | 🎮 <a href="https://github.com/liambrooks-lab/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
 | 🎮 <a href="https://github.com/Voxion-Labs/Empty_Pointer">Empty_Pointer</a> | C++, Raylib, WebAssembly | A grid-based action-survival game built natively in C++ with the Raylib framework. Navigate the system, merge bit values, and evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install browser play. |
@@ -339,6 +340,6 @@ Rather than simply building isolated applications, I design stateful architectur
 > *The future of computing is not about applications that run —*  
 > *it is about systems that **think**, **adapt**, and **co-evolve** with their operators.*
 >
-> Every line of code at **Voxion Labs** is a step toward that future.
+>Translating complex architecture into lag-free reality at **Voxion Labs**
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Designing%20Intelligent%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn)
