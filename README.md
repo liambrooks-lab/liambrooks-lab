@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
 
 <p align="center">
-  Founder @ <b>Voxion Labs</b> ⚙️ <br/>
+  Founder @ <b>Voxion Labs</b>  <br/>
   Building intelligent systems, backend architectures &amp; experimental AI
 </p>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Professional Profile & Philosophy
+##  Professional Profile & Philosophy
 
 I am **Rudranarayan Jena**, the **Founder** at **Voxion Labs**. As a dedicated systems architect, aspiring data scientist, and ML engineer, my professional mission lies at the convergence of high-performance backend infrastructures, continuous learning models, and sandboxed developer operating environments.
 
@@ -30,7 +30,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-## 🏢 My Organization
+##  My Organization
 
 <p align="center">
   <img src="assets/voxion_labs_logo.jpg" alt="Voxion Labs Logo" width="170" /><br>
@@ -42,13 +42,12 @@ Rather than simply building isolated applications, I design stateful architectur
 🔗 **Explore my organization:**
 
 <p>
-   <a href="https://github.com/Voxion-Labs"><b>Voxion Labs Organization</b></a> &nbsp;|&nbsp;
-   <a href="https://github.com/liambrooks-lab"><b>My Github Profile</b></a>
+   <a href="https://github.com/Voxion-Labs"><b>Voxion Labs Organization</b></a>
 </p>
 
 ---
 
-### 🔬 Active Research Repositories
+### 📄  Research Repositories
 
 <table>
   <tr>
@@ -71,7 +70,7 @@ Rather than simply building isolated applications, I design stateful architectur
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <h4>📦 <a href="https://github.com/Voxion-Labs/VXR-Sandbox">VXR-Sandbox</a></h4>
+      <h4>🌐 <a href="https://github.com/Voxion-Labs/VXR-Sandbox">VXR-Sandbox</a></h4>
       <b>Cyber-Defense Dashboard · Zero-backend Prompt Injection Defense</b><br/><br/>
       A high-security, browser-native prompt injection detection engine powered by a WebAssembly kernel. All analysis runs locally — no data leaves the device. Delivers real-time threat assessment results via an in-browser Wasm runtime without any page reloads.
       <br/><br/>
@@ -85,7 +84,7 @@ Rather than simply building isolated applications, I design stateful architectur
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Voxion-Labs/Aegis-IR">Aegis-IR</a></h4>
+      <h4>🌐 <a href="https://github.com/Voxion-Labs/Aegis-IR">Aegis-IR</a></h4>
       <b>Deterministic Memory for Browser-Native Search</b><br/><br/>
       Aegis-IR isolates the ranking kernel inside WebAssembly linear memory so allocation-heavy search avoids V8 garbage-collection pressure and reduces main-thread stutter. Operates at 0.000ms thread blocking with a GC-neutral 3.2 KB linear memory allocation across a 5-document corpus.
       <br/><br/>
@@ -102,21 +101,21 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Platform | Handle | Description |
 | :--- | :--- | :--- |
-| 💼 LinkedIn | <a href="https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%89%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9A-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
-| 📸 Instagram | <a href="https://www.instagram.com/rjena_?igsh=ems3MDZ3Zmo0dDN5"><b>@rjena_</b></a> | AI research updates & behind-the-scenes |
+|  LinkedIn | <a href="https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%89%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9A-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
+|  Instagram | <a href="https://www.instagram.com/rjena_?igsh=ems3MDZ3Zmo0dDN5"><b>@rjena_</b></a> | AI research updates & behind-the-scenes |
 |  X | <a href="https://x.com/RJena_"><b>@RJena_</b></a> | Tech thoughts & quick updates |
-| 📧 Gmail (Primary) | <a href="mailto:rudrajena.ventures@outlook.com"><b>rudrajena.ventures@outlook.com</b></a> |  Lab & project communications |
-| 📧 Gmail (Alt) | <a href="mailto:rjena.x@proton.me"><b>rjena.x@proton.me</b></a> | General inquiries & collaborations |
+| Email (Primary) | <a href="mailto:rudrajena.ventures@outlook.com"><b>rudrajena.ventures@outlook.com</b></a> |  Lab & project communications |
+| Email (Alt) | <a href="mailto:rjena.x@proton.me"><b>rjena.x@proton.me</b></a> | General inquiries & collaborations |
 
-> 💡 *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
+>  *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
 ---
 
-## 💎 Core Engineering Projects
+##  Core Engineering Projects
 
 > These are the foundational products designed, built, and shipped under the **Voxion Labs** umbrella.
 
-### 💻 [VoidLAB](https://github.com/liambrooks-lab/VoidLAB) — Minimalist Browser Cloud IDE
+###  [VoidLAB](https://github.com/liambrooks-lab/VoidLAB) — Minimalist Browser Cloud IDE
 
 <table>
   <tr>
@@ -138,7 +137,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### ⚙️ [FluxKernel](https://github.com/liambrooks-lab/FluxKernel) — Memory-Driven AI OS Agent
+###  [FluxKernel](https://github.com/liambrooks-lab/FluxKernel) — Memory-Driven AI OS Agent
 
 <table>
   <tr>
@@ -160,7 +159,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### 🌐 [HorizonSync](https://github.com/liambrooks-lab/HorizonSync) — Unified Collaborative Workspace
+###  [HorizonSync](https://github.com/liambrooks-lab/HorizonSync) — Unified Collaborative Workspace
 
 <table>
   <tr>
@@ -182,7 +181,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### 🔊 [LEXIO](https://github.com/Voxion-Labs/LEXIO) — Premium Text-To-Speech Engine
+###  [LEXIO](https://github.com/Voxion-Labs/LEXIO) — Premium Text-To-Speech Engine
 
 <table>
   <tr>
@@ -204,7 +203,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### 🎓 [SkillNODE](https://github.com/liambrooks-lab/SkillNODE) — Social Skill Acquisition Platform
+###  [SkillNODE](https://github.com/liambrooks-lab/SkillNODE) — Social Skill Acquisition Platform
 
 <table>
   <tr>
@@ -226,7 +225,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### 🖥️ [RedTerminal](https://github.com/Voxion-Labs/RedTerminal) — C-Based OS Process Simulator
+###  [RedTerminal](https://github.com/Voxion-Labs/RedTerminal) — C-Based OS Process Simulator
 
 <table>
   <tr>
@@ -251,7 +250,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-### 🚀 [LeetCode-Stack](https://github.com/liambrooks-lab/LeetCode-Stack) — DSA & Core Algorithm Vault *(Active)*
+###  [LeetCode-Stack](https://github.com/liambrooks-lab/LeetCode-Stack) — DSA & Core Algorithm Vault *(Active)*
 
 <table>
   <tr>
@@ -298,7 +297,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-## 🧪 Other Engineering Implementations
+##  Other Engineering Implementations
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -330,10 +329,10 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Area | What I'm Working On |
 | :--- | :--- |
-| 🤖 AI & Machine Learning | Building production-grade ML pipelines and intelligent agent systems |
-| 🏗️ Systems Engineering | Designing low-latency sandboxes and memory-persistent multi-agent architectures |
-| 🎮 Game Development | Advancing **ApexProtocol** — a large-scale sci-fi survival horror experience |
-| 📐 DSA & Foundations | Sharpening algorithmic problem-solving and atatistics for complex system design |
+|  AI & Machine Learning | Building production-grade ML pipelines and intelligent agent systems |
+|  Systems Engineering | Designing low-latency sandboxes and memory-persistent multi-agent architectures |
+|  Game Development | Advancing **ApexProtocol** — a large-scale sci-fi survival horror experience |
+|  DSA & Foundations | Sharpening algorithmic problem-solving and atatistics for complex system design |
 
 ## 🧬 Vision
 
