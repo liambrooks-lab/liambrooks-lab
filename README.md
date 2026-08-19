@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20ML%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
 
 <p align="center">
   Founder @ <b>Voxion Labs</b>  <br/>
   Building intelligent systems, backend architectures &amp; experimental AI
 </p>
 
-<h3 align="center">AI/ML Explorer &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Aspiring Data Scientist &amp; ML Engineer</h3>
+<h3 align="center">AI/ML &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Aspiring Data Scientist &amp; ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
@@ -42,7 +42,7 @@ Rather than simply building isolated applications, I design stateful architectur
 🔗 **Explore my organization:**
 
 <p>
-   <a href="https://github.com/Voxion-Labs"><b>Voxion Labs Organization</b></a>
+   <a href="https://github.com/Voxion-Labs"><b>Visit Voxion Labs</b></a>
 </p>
 
 ---
@@ -148,7 +148,7 @@ Rather than simply building isolated applications, I design stateful architectur
 | **Type** | AI Agent Kernel |
 | **Status** | Active |
 | **Stack** | Python, LangChain, Vector DB |
-| **Org** | liambrooks-lab |
+| **Org** | Voxion-Labs |
 
   </td>
   <td valign="top" width="62%">
@@ -170,7 +170,7 @@ Rather than simply building isolated applications, I design stateful architectur
 | **Type** | Collaboration Platform |
 | **Status** | Active |
 | **Stack** | TypeScript, Next.js, Socket.io |
-| **Org** | liambrooks-lab |
+| **Org** | Voxion-Labs |
 
   </td>
   <td valign="top" width="62%">
@@ -214,7 +214,7 @@ Rather than simply building isolated applications, I design stateful architectur
 | **Type** | Skill-Dev Platform |
 | **Status** | Active |
 | **Stack** | Node.js, Socket.io, React, MongoDB |
-| **Org** | liambrooks-lab |
+| **Org** | Voxion-Labs |
 
   </td>
   <td valign="top" width="62%">
@@ -249,8 +249,7 @@ Rather than simply building isolated applications, I design stateful architectur
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
 ---
-
-###  [LeetCode-Stack](https://github.com/liambrooks-lab/LeetCode-Stack) — DSA & Core Algorithm Vault *(Active)*
+###  [leetcode-stack](https://github.com/liambrooks-lab/LeetCode-Stack) — DSA & Core Algorithm Vault
 
 <table>
   <tr>
@@ -259,9 +258,9 @@ Rather than simply building isolated applications, I design stateful architectur
 | Field | Details |
 | :--- | :--- |
 | **Type** | DSA & Core Algorithm Vault |
-| **Status** | ⚡ Active Execution |
+| **Status** | Active Execution |
 | **Stack** | C++, Python |
-| **Org** | liambrooks-lab |
+| **GitHUb** | liambrooks-lab |
 
   </td>
   <td valign="top" width="62%">
