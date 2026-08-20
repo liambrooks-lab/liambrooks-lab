@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20ML%20Engineer%20%7C%20System%20Builder&descAlignY=64&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20Aspiring%20Data%20Scientist%20and%20ML%20Engineer%20%7C%20Finance%20Enthusiast&descAlignY=64&descSize=18)
 
 <p align="center">
-  Founder @ <b>Voxion Labs</b>  <br/>
-  Building intelligent systems, backend architectures &amp; experimental AI
+  <b>Open-Source Contributor | Active in LeetCode & GitHub</b>  <br/>
+   AI Orchestration
 </p>
 
 <h3 align="center">AI/ML &nbsp;|&nbsp; Building Real-World Systems &nbsp;|&nbsp; Aspiring Data Scientist &amp; ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Platform | Handle | Description |
 | :--- | :--- | :--- |
-|  LinkedIn | <a href="https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%89%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9A-88845b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><b>Rudranarayan_Jena_linkedin</b></a> | Professional network, career updates |
+|  LinkedIn | <a href="https://www.linkedin.com/in/rudranarayan-jena-88845b2a9/"><b>Rudranarayan Jena</b></a> | Professional network, career updates |
 |  Instagram | <a href="https://www.instagram.com/rjena_?igsh=ems3MDZ3Zmo0dDN5"><b>@rjena_</b></a> | AI research updates & behind-the-scenes |
 |  X | <a href="https://x.com/RJena_"><b>@RJena_</b></a> | Tech thoughts & quick updates |
 | Email (Primary) | <a href="mailto:rudrajena.ventures@outlook.com"><b>rudrajena.ventures@outlook.com</b></a> |  Lab & project communications |
@@ -259,8 +259,8 @@ Rather than simply building isolated applications, I design stateful architectur
 | :--- | :--- |
 | **Type** | DSA & Core Algorithm Vault |
 | **Status** | Active Execution |
-| **Stack** | C++, Python |
-| **GitHUb** | liambrooks-lab |
+| **Stack** | C++, Python, Javascript |
+| **GitHub** | liambrooks-lab |
 
   </td>
   <td valign="top" width="62%">
@@ -324,7 +324,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 | Area | What I'm Working On |
 | :--- | :--- |
@@ -333,7 +333,7 @@ Rather than simply building isolated applications, I design stateful architectur
 |  Game Development | Advancing **ApexProtocol** — a large-scale sci-fi survival horror experience |
 |  DSA & Foundations | Sharpening algorithmic problem-solving and atatistics for complex system design |
 
-## 🧬 Vision
+## Vision
 
 > *The future of computing is not about applications that run —*  
 > *it is about systems that **think**, **adapt**, and **co-evolve** with their operators.*
