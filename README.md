@@ -4,7 +4,7 @@
   <b>Open-Source Contributor | Active in LeetCode & GitHub</b>  <br/>
 </p>
 
-<h3 align="center">AI/ML &nbsp;|&nbsp; Building Scalable Systems Using WebAssembly &nbsp;|&nbsp; Aspiring Data Scientist &amp; ML Engineer</h3>
+<h3 align="center">AI/ML &nbsp;|&nbsp; Building Scalable Systems Using WebAssembly &nbsp;|&nbsp; Zero Backend</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems;ML+Engineer+in+Progress;Creating+Real-World+Projects;Obsessed+with+Tech" alt="Typing SVG" />
@@ -23,9 +23,10 @@
 
 ##  Professional Profile & Philosophy
 
-I am **Rudranarayan Jena**, the **Founder** at **Voxion Labs**. As a dedicated systems architect, aspiring data scientist, and ML engineer, my professional mission lies at the convergence of high-performance backend infrastructures, continuous learning models, and sandboxed developer operating environments.
+I am Rudranarayan Jena, the founder of **Voxion Labs**. As a systems programmer and **ML engineer**, my work focuses on the exact intersection of high-performance infrastructure, applied machine learning, and secure operating environments.
+While I architect zero-backend web applications, my primary focus remains engineering stateful, distributed architectures strictly designed for maximum scale. My core engineering involves low-level sandboxing via **WebAssembly**, multi-agent orchestration, and optimizing complex neural network pipelines directly for production.
 
-Rather than simply building isolated applications, I design stateful architectures where software and machine intelligence co-evolve. My focus is on making high-performance sandboxes, multi-agent systems, and neural network pipelines more accessible and reliable for creators and developers worldwide. Through my dual role as **Founder and solo Researcher**, I actively transition raw theoretical computer science research into production-grade systems — learning by building, shipping, and optimizing.
+Operating as both Founder and Architect at Voxion Labs, I focus on translating theoretical computer science into bare-metal, highly concurrent systems. The objective is strict and measurable: research, optimize, and deploy robust foundational technology without the latency of conventional software abstractions.
 
 ---
 
@@ -36,9 +37,9 @@ Rather than simply building isolated applications, I design stateful architectur
   <a href="https://github.com/Voxion-Labs"><b>Voxion Labs</b></a>
 </p>
 
-**Voxion Labs** is an independent systems and artificial intelligence laboratory that I founded to pursue applied research at the intersection of low-latency execution engines, stateful memory-driven AI agents, and sandboxed developer environments. As its **Founder**, I drive the vision, architecture decisions, and all active research initiatives. The core thesis of Voxion Labs is that future computing interfaces will not just run applications — they will co-evolve with the developers operating them.
+Voxion Labs is an **independent research syndicate** focused on stateful **AI orchestration** and distributed state engines. As the Founder, I direct all core infrastructure decisions and active systems research. The laboratory engineers sandboxed machine intelligence and **low-level WASM kernels** to bypass the latency of conventional architectures.
 
-🔗 **Explore my organization:**
+The operating thesis is strictly utilitarian: computational layers must be secure, bare-metal, and resource-efficient. Rather than building transient web applications, Voxion Labs focuses on foundational base layers where memory-driven autonomous agents and highly concurrent execution environments operate under strict performance benchmarks. The primary objective is translating theoretical computer science models into production-ready, low-latency network protocols.
 
 <p>
    <a href="https://github.com/Voxion-Labs"><b>Visit Voxion Labs</b></a>
@@ -114,7 +115,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 > These are the foundational products designed, built, and shipped under the **Voxion Labs** umbrella.
 
-###  [VoidLAB](https://github.com/liambrooks-lab/VoidLAB) — Minimalist Browser Cloud IDE
+###  [VoidLAB](https://github.com/Voxion-Labs/VoidLAB) — Zero Backend Browser Cloud IDE
 
 <table>
   <tr>
@@ -125,7 +126,7 @@ Rather than simply building isolated applications, I design stateful architectur
 | **Type** | Cloud IDE |
 | **Status** | Active |
 | **Stack** | React, Next.js, Web Workers |
-| **Org** | liambrooks-lab |
+| **Org** | Voxion Labs |
 
   </td>
   <td valign="top" width="62%">
@@ -136,7 +137,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-###  [FluxKernel](https://github.com/liambrooks-lab/FluxKernel) — Memory-Driven AI OS Agent
+###  [FluxKernel](https://github.com/Voxion-Labs/FluxKernel) — Memory-Driven AI OS Agent
 
 <table>
   <tr>
@@ -158,7 +159,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-###  [HorizonSync](https://github.com/liambrooks-lab/HorizonSync) — Unified Collaborative Workspace
+###  [YooMates](https://github.com/Voxion-Labs/YooMates) — Unified Collaborative Workspace
 
 <table>
   <tr>
@@ -202,7 +203,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-###  [SkillNODE](https://github.com/liambrooks-lab/SkillNODE) — Social Skill Acquisition Platform
+###  [SkillNODE](https://github.com/Voxion-labs/SkillNODE) — Social Skill Acquisition Platform
 
 <table>
   <tr>
@@ -248,7 +249,7 @@ Rather than simply building isolated applications, I design stateful architectur
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
 ---
-###  [leetcode-stack](https://github.com/liambrooks-lab/LeetCode-Stack) — DSA & Core Algorithm Vault
+###  [leetcode-stack](https://github.com/liambrooks-lab/leetcode-stack) — DSA & Core Algorithm Vault
 
 <table>
   <tr>
@@ -270,7 +271,7 @@ Rather than simply building isolated applications, I design stateful architectur
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
   <tr>
@@ -299,10 +300,10 @@ Rather than simply building isolated applications, I design stateful architectur
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| 🎮 <a href="https://github.com/liambrooks-lab/ApexProtocol">ApexProtocol</a> | C#, C++ | An upcoming, large-scale sci-fi survival horror experience currently in active development. Focuses on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines. |
-| 🔹 <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">VoidLAB-Beta</a> | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
-| 🎮 <a href="https://github.com/liambrooks-lab/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
-| 🎮 <a href="https://github.com/Voxion-Labs/Empty_Pointer">Empty_Pointer</a> | C++, Raylib, WebAssembly | A grid-based action-survival game built natively in C++ with the Raylib framework. Navigate the system, merge bit values, and evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install browser play. |
+|  <a href="https://github.com/liambrooks-lab/ApexProtocol">ApexProtocol</a> | C#, C++ | An upcoming, large-scale sci-fi survival horror experience currently in active development. Focuses on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines. |
+|  <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">VoidLAB-Beta</a> | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
+|  <a href="https://github.com/liambrooks-lab/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
+|  <a href="https://github.com/Voxion-Labs/Empty_Pointer">Empty_Pointer</a> | C++, Raylib, WebAssembly | A grid-based action-survival game built natively in C++ with the Raylib framework. Navigate the system, merge bit values, and evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install browser play. |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
